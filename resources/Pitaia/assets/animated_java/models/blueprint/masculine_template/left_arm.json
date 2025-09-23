@@ -1,0 +1,48 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/masculine_template/gul_thorn_uniforme",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [5, -3, 6],
+			"to": [8, 9, 10],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [8, 9, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [10, 13, 9, 16],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [11, 13, 10, 16],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [12, 13, 11, 16],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [9, 13, 8, 16],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [10, 12, 9, 13],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [11, 12, 10, 13],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}

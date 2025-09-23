@@ -437,6 +437,7 @@
 			"to": [3.5, 24, 2.1],
 			"autouv": 0,
 			"color": 9,
+			"visibility": false,
 			"inflate": 0.025,
 			"origin": [0, 0, 0],
 			"faces": {
@@ -2006,7 +2007,7 @@
 													"locked": false,
 													"visibility": true,
 													"autouv": 0,
-													"selected": false,
+													"selected": true,
 													"children": [
 														"1cbf310d-3a66-0e61-47f1-b84d7a87e167",
 														"1c2043a2-a4d6-c078-9869-f1b90e4078a3",

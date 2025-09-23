@@ -1,0 +1,48 @@
+{
+	"textures": {
+		"0": "animated_java:blueprint/feminine_template/yunaskinpelada",
+		"particle": "minecraft:item/pufferfish"
+	},
+	"display": {
+		"head": {
+			"rotation": [0, 180, 0]
+		}
+	},
+	"elements": [
+		{
+			"from": [7.9, 5, 7.3],
+			"to": [9.1, 8, 10.7],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [9.2, 5, 8]
+			},
+			"faces": {
+				"north": {
+					"uv": [2.25, 6, 2, 6.75],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [2.25, 6.75, 3, 7.5],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [2.75, 6, 3, 6.75],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [2, 6, 3, 6.75],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [2.25, 7.5, 2, 6.75],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [3.25, 6.75, 3, 7.5],
+					"texture": "#0"
+				}
+			}
+		}
+	]
+}
