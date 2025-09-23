@@ -1,0 +1,54 @@
+{
+    "model": {
+        "type": "select",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/totem_of_undying"
+        },
+        "cases": [
+            {
+                "when": "d6_1",
+                "model": {
+                    "type": "model",
+                    "model": "item/d6/d6_1"
+                }
+            },
+            {
+                "when": "d6_2",
+                "model": {
+                    "type": "model",
+                    "model": "item/d6/d6_2"
+                }
+            },
+            {
+                "when": "d6_3",
+                "model": {
+                    "type": "model",
+                    "model": "item/d6/d6_3"
+                }
+            },
+            {
+                "when": "d6_4",
+                "model": {
+                    "type": "model",
+                    "model": "item/d6/d6_4"
+                }
+            },
+            {
+                "when": "d6_5",
+                "model": {
+                    "type": "model",
+                    "model": "item/d6/d6_5"
+                }
+            },
+            {
+                "when": "d6_6",
+                "model": {
+                    "type": "model",
+                    "model": "item/d6/d6_6"
+                }
+            }
+        ]
+    }
+}
