@@ -1,7 +1,6 @@
 {
-  "pack": {
-    "description": "This is the description of your data pack",
-    "pack_format": 71,
-    "supported_formats": [71,71]
-  }
+	"pack": {
+		"pack_format": 61,
+		"description": "Datapack do projeto Atlântida"
+	}
 }

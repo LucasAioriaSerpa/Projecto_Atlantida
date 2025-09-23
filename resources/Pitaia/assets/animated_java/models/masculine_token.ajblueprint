@@ -1,0 +1,55 @@
+{
+	"meta": {
+		"format": "animated_java_blueprint",
+		"format_version": "1.7.3",
+		"uuid": "5056825d-91cc-8c58-106a-fd5e41868ca6",
+		"save_location": "",
+		"last_used_export_namespace": "masculine_token"
+	},
+	"blueprint_settings": {
+		"export_namespace": "masculine_token",
+		"show_bounding_box": false,
+		"auto_bounding_box": true,
+		"bounding_box": [48, 48],
+		"enable_plugin_mode": false,
+		"resource_pack_export_mode": "raw",
+		"data_pack_export_mode": "raw",
+		"target_minecraft_versions": ["1.21.4"],
+		"display_item": "minecraft:emerald",
+		"custom_model_data_offset": 0,
+		"enable_advanced_resource_pack_settings": false,
+		"resource_pack": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\resourcepacks\\Pitaia",
+		"enable_advanced_data_pack_settings": false,
+		"data_pack": "C:\\Users\\User\\AppData\\Roaming\\.minecraft\\datapacks\\Abacate",
+		"summon_commands": "",
+		"remove_commands": "",
+		"ticking_commands": "",
+		"interpolation_duration": 1,
+		"teleportation_duration": 1,
+		"use_storage_for_animation": false,
+		"show_function_errors": true,
+		"show_outdated_warning": false,
+		"baked_animations": true,
+		"json_file": ""
+	},
+	"resolution": {
+		"width": 16,
+		"height": 16
+	},
+	"elements": [],
+	"outliner": [],
+	"textures": [],
+	"variants": {
+		"default": {
+			"name": "default",
+			"display_name": "Default",
+			"uuid": "c08b6249-07fb-865b-6590-4391857fe1ce",
+			"texture_map": {},
+			"excluded_nodes": [],
+			"is_default": true
+		},
+		"list": []
+	},
+	"animations": [],
+	"animation_controllers": []
+}
