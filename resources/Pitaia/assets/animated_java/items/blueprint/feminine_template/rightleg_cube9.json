@@ -1,9 +1,0 @@
-{
-	"model": {
-		"type": "minecraft:model",
-		"model": "animated_java:blueprint/feminine_template/rightleg_cube9",
-		"tints": [
-			{"type": "minecraft:dye", "default": [1, 1, 1]}
-		]
-	}
-}

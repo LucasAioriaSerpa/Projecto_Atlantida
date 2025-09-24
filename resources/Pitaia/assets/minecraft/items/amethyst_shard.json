@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "select",
+        "propery": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/amethyst_shard"
+        },
+        "cases": [
+            {
+                "when": "female_template",
+                "modal": {
+                    "type": "model",
+                    "model": "item/female_template/Feminine_template"
+                }
+            }
+        ]
+    }
+}

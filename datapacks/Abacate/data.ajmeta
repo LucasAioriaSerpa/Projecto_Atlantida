@@ -1,6 +1,82 @@
 {
 	"formatVersion": "1.0.0",
 	"rigs": {
+		"feminine_template": {
+			"coreFiles": [
+				"data/animated_java/function/feminine_template/invalid_version_warning.mcfunction",
+				"data/animated_java/function/feminine_template/on_load.mcfunction",
+				"data/animated_java/function/global/errors/function_not_executed_as_root_entity.mcfunction",
+				"data/animated_java/function/global/internal/gu/convert_uuid_array_to_string.mcfunction",
+				"data/animated_java/function/global/internal/gu/load.mcfunction",
+				"data/animated_java/function/global/internal/gu/zzz/0.mcfunction",
+				"data/animated_java/function/global/internal/gu/zzz/1.mcfunction",
+				"data/animated_java/function/global/on_load.mcfunction",
+				"data/animated_java/function/global/on_tick.mcfunction",
+				"data/animated_java/function/global/remove/everything.mcfunction",
+				"data/animated_java/tags/function/global/on_load.json",
+				"data/animated_java/tags/function/global/root/on_load.json",
+				"data/animated_java/tags/function/global/root/on_tick.json",
+				"data/minecraft/tags/function/load.json",
+				"data/minecraft/tags/function/tick.json",
+				"pack.mcmeta"
+			],
+			"versionedFiles": [
+				"data/animated_java/function/feminine_template/invalid_version_warning.mcfunction",
+				"data/animated_java/function/feminine_template/remove/all.mcfunction",
+				"data/animated_java/function/feminine_template/remove/entities.mcfunction",
+				"data/animated_java/function/feminine_template/remove/this.mcfunction",
+				"data/animated_java/function/feminine_template/remove/zzz/this/kill_camera.mcfunction",
+				"data/animated_java/function/feminine_template/remove/zzz/this/kill_locator.mcfunction",
+				"data/animated_java/function/feminine_template/remove/zzz/this/recursively_kill_passengers.mcfunction",
+				"data/animated_java/function/feminine_template/root/on_load.mcfunction",
+				"data/animated_java/function/feminine_template/root/on_tick.mcfunction",
+				"data/animated_java/function/feminine_template/root/zzz/check_rig_hash.mcfunction",
+				"data/animated_java/function/feminine_template/root/zzz/show_outdated_warning.mcfunction",
+				"data/animated_java/function/feminine_template/set_default_pose.mcfunction",
+				"data/animated_java/function/feminine_template/summon.mcfunction",
+				"data/animated_java/function/feminine_template/zzz/summon/as_data_entity.mcfunction",
+				"data/animated_java/function/feminine_template/zzz/summon/as_root_entity.mcfunction",
+				"data/animated_java/function/feminine_template/zzz/summon/zzz/variant_arg/no_variants_warning.mcfunction"
+			]
+		},
+		"masculine_template": {
+			"coreFiles": [
+				"data/animated_java/function/global/errors/function_not_executed_as_root_entity.mcfunction",
+				"data/animated_java/function/global/internal/gu/convert_uuid_array_to_string.mcfunction",
+				"data/animated_java/function/global/internal/gu/load.mcfunction",
+				"data/animated_java/function/global/internal/gu/zzz/0.mcfunction",
+				"data/animated_java/function/global/internal/gu/zzz/1.mcfunction",
+				"data/animated_java/function/global/on_load.mcfunction",
+				"data/animated_java/function/global/on_tick.mcfunction",
+				"data/animated_java/function/global/remove/everything.mcfunction",
+				"data/animated_java/function/masculine_template/invalid_version_warning.mcfunction",
+				"data/animated_java/function/masculine_template/on_load.mcfunction",
+				"data/animated_java/tags/function/global/on_load.json",
+				"data/animated_java/tags/function/global/root/on_load.json",
+				"data/animated_java/tags/function/global/root/on_tick.json",
+				"data/minecraft/tags/function/load.json",
+				"data/minecraft/tags/function/tick.json",
+				"pack.mcmeta"
+			],
+			"versionedFiles": [
+				"data/animated_java/function/masculine_template/invalid_version_warning.mcfunction",
+				"data/animated_java/function/masculine_template/remove/all.mcfunction",
+				"data/animated_java/function/masculine_template/remove/entities.mcfunction",
+				"data/animated_java/function/masculine_template/remove/this.mcfunction",
+				"data/animated_java/function/masculine_template/remove/zzz/this/kill_camera.mcfunction",
+				"data/animated_java/function/masculine_template/remove/zzz/this/kill_locator.mcfunction",
+				"data/animated_java/function/masculine_template/remove/zzz/this/recursively_kill_passengers.mcfunction",
+				"data/animated_java/function/masculine_template/root/on_load.mcfunction",
+				"data/animated_java/function/masculine_template/root/on_tick.mcfunction",
+				"data/animated_java/function/masculine_template/root/zzz/check_rig_hash.mcfunction",
+				"data/animated_java/function/masculine_template/root/zzz/show_outdated_warning.mcfunction",
+				"data/animated_java/function/masculine_template/set_default_pose.mcfunction",
+				"data/animated_java/function/masculine_template/summon.mcfunction",
+				"data/animated_java/function/masculine_template/zzz/summon/as_data_entity.mcfunction",
+				"data/animated_java/function/masculine_template/zzz/summon/as_root_entity.mcfunction",
+				"data/animated_java/function/masculine_template/zzz/summon/zzz/variant_arg/no_variants_warning.mcfunction"
+			]
+		},
 		"masculine_token": {
 			"coreFiles": [
 				"data/animated_java/function/global/errors/function_not_executed_as_root_entity.mcfunction",
