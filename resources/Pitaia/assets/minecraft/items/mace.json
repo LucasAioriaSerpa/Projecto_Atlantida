@@ -4,14 +4,14 @@
         "propery": "custom_model_data",
         "fallback": {
             "type": "model",
-            "model": "item/amethyst_shard"
+            "model": "item/mace"
         },
         "cases": [
             {
-                "when": "female_template",
+                "when": "test",
                 "modal": {
                     "type": "model",
-                    "model": "item/female_template/Feminine_template"
+                    "model": "item/feminine_template"
                 }
             }
         ]

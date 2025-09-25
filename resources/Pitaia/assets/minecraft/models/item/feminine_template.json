@@ -1,10 +1,9 @@
 {
-	"format_version": "1.21.5",
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "D&D_Fichas/YunaSkin6",
-		"particle": "D&D_Fichas/YunaSkin6"
+		"0": "item/yuna_skin",
+		"particle": "item/yuna_skin"
 	},
 	"elements": [
 		{
