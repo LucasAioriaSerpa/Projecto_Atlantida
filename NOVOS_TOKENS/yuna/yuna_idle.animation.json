@@ -3,6 +3,7 @@
 	"animations": {
 		"animation.yuna_token.idle": {
 			"loop": true,
+			"animation_length": 30,
 			"bones": {
 				"world": {
 					"scale": [1, "1 + (Math.cos(q.anim_time * 200) * 0.01)", 1]
