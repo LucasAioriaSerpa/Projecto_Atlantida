@@ -1,0 +1,25 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [15, 34],
+    "description": "Adds Maxwell the cat from the carriable cats gmod mod."
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": {
+          "min_inclusive": 32,
+          "max_inclusive": 34
+        },
+        "directory": "1_20_5"
+      },
+      {
+        "formats": {
+          "min_inclusive": 42,
+          "max_inclusive": 2147483647
+        },
+        "directory": "1_21_2"
+      }
+    ]
+  }
+}
